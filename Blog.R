@@ -3,7 +3,7 @@ library(readxl)
 library(tidyverse)
 library(zoo)
 
-setwd("~/OneDrive/My file/Thesis/Data Analysis")
+#setwd("~/OneDrive/My file/Thesis/Data Analysis")
 rm(list = ls())
 
 # 1 Importing and cleaning the major data set
